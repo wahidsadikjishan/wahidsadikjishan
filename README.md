@@ -5,7 +5,7 @@ class Person:
     def __init__(self):
         self.name = "Wahid Sadik"
         self.occupation = "Code Sorcerer and Bug Whisperer"
-        self.languages_spoken = ["En", "Bn"]
+        self.languages_spoken = ["bn_BD", "en_US"]
         self.interests = ["Code", "Books", "Films", "Being_Anti-Social"]
         self.skills = ["C++","Python","Java", "JavaScript", "HTML/CSS"]
         self.experience = "∞ years of coding experience"
