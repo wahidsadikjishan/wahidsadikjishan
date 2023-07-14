@@ -6,7 +6,7 @@ class Person:
         self.name = "Wahid Sadik"
         self.occupation = "Code Sorcerer and Bug Whisperer"
         self.languages_spoken = ["bn_BD", "en_US"]
-        self.skills = ["C++","Python","Java", "JavaScript", "HTML/CSS"]
+        self.skills = ["C++", "Python", "Java", "JavaScript", "HTML/CSS"]
         self.interests = ["Code", "Books", "Films", "Being_Anti-Social"]
     
     def say_hi(self):
