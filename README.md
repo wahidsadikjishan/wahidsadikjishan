@@ -10,7 +10,7 @@ class Person:
         self.interests = ["Code", "Books", "Films", "Being_Anti-Social"]
     
     def say_hi(self):
-        print("👋 Greetings, mortal! Enter my realm of cryptic symbols and perplexing bugs. Together, we shall embark on a perilous journey through the tangled realms of code, where every line holds the power to confound and bewilder!")
+        print("👋 Hello!")
 
 
 me = Person()
