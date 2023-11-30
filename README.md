@@ -5,7 +5,7 @@ class Person:
     def __init__(self):
         self.name = "Wahid Sadik"
         self.languages_spoken = ["bn_BD", "en_US"]
-        self.interests = ["Code", "Books", "Films", "Being_Anti-Social"]
+        self.interests = ["Code", "Books", "Films"]
     
     def say_hi(self):
         print("👋 Hello!")
