@@ -1,18 +1,19 @@
 ![GIF Image](https://media.giphy.com/media/9B8wYztAoe1zO/source.gif)
 
 ```
-class Person:
-    def __init__(self):
-        self.name = "Wahid Sadik"
-        self.languages_spoken = ["bn_BD", "en_US"]
-        self.interests = ["Code", "Books", "Films"]
-    
-    def say_hi(self):
-        print("👋 Hello!")
+class Person {
+  constructor() {
+    this.name = "Wahid Sadik Jishan";
+    this.languagesSpoken = ["bn_BD", "en_US"];
+    this.interests = ["Code", "Books", "Films"];
+  }
+  sayHi() {
+    console.log("👋 Hello!");
+  }
+}
 
-
-me = Person()
-me.say_hi()
+const me = new Person();
+me.sayHi();
 
 ```
 #### Languages
