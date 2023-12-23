@@ -26,7 +26,7 @@ me.sayHi();
 
 | ⚙️ **Tech** | 🖥️ **Projects** |
 | - | - |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)| [![tetris](https://img.shields.io/static/v1?label=&message=Tetris&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/wahidsadikjishan/Tetris) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)| [![tetris](https://img.shields.io/static/v1?label=&message=tetris&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/wahidsadikjishan/Tetris) |
 
 
 <!---
